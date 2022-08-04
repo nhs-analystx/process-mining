@@ -1,11 +1,11 @@
 # Edit these site settings
 # ------------------------------------------
-title:             AnalystX PHDA CoE
+title:             AnalystX Process Mining
 email:             england.analystX@nhs.net
-author:            AnalystX PHDA CoE
-description:       "Welcome to the AnalystX Population Health Data and Analytics Centre of Excellence"
+author:            AnalystX Process Mining
+description:       "Welcome to the AnalystX Process Mining Centre of Excellence"
 url:               "https://nhs-analystx.github.io/"
-baseurl:           "PHDACoE/"
+baseurl:           "process-mining/"
 github_username:   nhs-analystx
 linkedin_username: 
 date_format:       "%b %-d, %Y"
