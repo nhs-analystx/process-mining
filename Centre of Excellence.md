@@ -3,7 +3,7 @@ layout: default
 title: Centre of Excellence
 ---
 
-<h2>AnalystX Population Health Data and Analytics Centre of Excellence (PHDA CoE)</h2>
+<h2>AnalystX Process Mining Centre of Excellence</h2>
 <p>
   The Centre of Excellence will upload new learning material from organisations weekly. This will ensure new learning material is available for our learners and community members. 
 </p>
