@@ -3,7 +3,7 @@ layout: default
 title: Centre of Excellence
 ---
 
-<h2>AnalystX Process Mining Centre of Excellence</h2>
+<h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Process Mining Centre of Excellence</h2></a>
 <p>
   The Centre of Excellence will upload new learning material from organisations periodically. This will ensure new learning material is available for our learners and community members. 
 </p>
