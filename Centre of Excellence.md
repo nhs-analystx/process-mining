@@ -51,7 +51,7 @@ title: Centre of Excellence
 <h2>Communities of Practice</h2>
 
 We are keen to support new communities in development of existing networks. Please get in touch if you would like support the development of the Process Mining Centre of Excellence.
-– please email [england.analystX@nhs.net](mailto:england.analystx@nhs.net)
+– email [england.analystX@nhs.net](mailto:england.analystx@nhs.net) for more information.
 
 
 
