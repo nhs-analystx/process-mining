@@ -5,7 +5,7 @@ title: Centre of Excellence
 
 <h2>AnalystX Process Mining Centre of Excellence</h2>
 <p>
-  The Centre of Excellence will upload new learning material from organisations weekly. This will ensure new learning material is available for our learners and community members. 
+  The Centre of Excellence will upload new learning material from organisations periodically. This will ensure new learning material is available for our learners and community members. 
 </p>
 <h2>Current Members:</h2>
 <ul>
