@@ -20,13 +20,19 @@ Both service teams and business informatics teams are extremely busy and the PTL
 
 #### Illustration using National Waiting List datasets
 
-<img src="https://github.com/nhs-analystx/process-mining/blob/main/assets/img/A.PNG" alt="Illustration A">
+{% from 'images/macro.njk' import image %}
 
-Illustration A shows 4 simple filters in a process mining tool that can be applied within seconds by Services teams or Business Informatics teams to identify 2% of patients who might meet the eligibility criteria.
+{{ image({
+  "src": "https://github.com/nhs-analystx/process-mining/blob/main/assets/img/A.PNG",
+  "alt": "Illustration A",
+  "caption": "Illustration A shows 4 simple filters in a process mining tool that can be applied within seconds by Services teams or Business Informatics teams to identify 2% of patients who might meet the eligibility criteria."
+}) }}
 
-<img src="https://github.com/nhs-analystx/process-mining/blob/main/assets/img/B.PNG" alt="Illustration B">
-
-Trusts can also interrogate any additional referral and patient attributes (Illustration B) to support decision making to offer the most appropriate outpatient consultations.
+{{ image({
+  "src": "[https://github.com/nhs-analystx/process-mining/blob/main/assets/img/A.PNG](https://github.com/nhs-analystx/process-mining/blob/main/assets/img/B.PNG)",
+  "alt": "Illustration B",
+  "caption": "Trusts can also interrogate any additional referral and patient attributes (Illustration B) to support decision making to offer the most appropriate outpatient consultations."
+}) }}
 
 #### How to get started
 During the Covid pandemic, the NHS has led the way in their use of data and analytical techniques to support critical decision making.  The NHS is now leading process mining in healthcare with ICSs and Trusts innovating and building capabilities to revolutionise patient flow analytics.
