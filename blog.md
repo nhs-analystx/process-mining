@@ -33,6 +33,8 @@ Illustration A shows 4 simple filters in a process mining tool that can be appli
  <img alt="Illustration B" class="nhsuk-card__img" src="assets/img/B.PNG" /> 
          </div> 
 Trusts can also interrogate any additional referral and patient attributes (Illustration B) to support decision making to offer the most appropriate outpatient consultations.
+   </div>
+ </div>
 
 #### How to get started
 During the Covid pandemic, the NHS has led the way in their use of data and analytical techniques to support critical decision making.  The NHS is now leading process mining in healthcare with ICSs and Trusts innovating and building capabilities to revolutionise patient flow analytics.
