@@ -20,21 +20,18 @@ Both service teams and business informatics teams are extremely busy and the PTL
 
 #### Illustration using National Waiting List datasets
 
-<div class="nhsuk-grid-row"> 
-<div class="nhsuk-grid-column-one-full"> 
 <div class="nhsuk-card"> 
  <img alt="Illustration A" class="nhsuk-card__img" src="assets/img/A.PNG" /> 
          </div> 
 Illustration A shows 4 simple filters in a process mining tool that can be applied within seconds by Services teams or Business Informatics teams to identify 2% of patients who might meet the eligibility criteria.
 
-  <div class="nhsuk-grid-row"> 
-<div class="nhsuk-grid-column-one-full"> 
+
 <div class="nhsuk-card"> 
  <img alt="Illustration B" class="nhsuk-card__img" src="assets/img/B.PNG" /> 
          </div> 
 Trusts can also interrogate any additional referral and patient attributes (Illustration B) to support decision making to offer the most appropriate outpatient consultations.
-   </div>
- </div>
+
+
 
 #### How to get started
 During the Covid pandemic, the NHS has led the way in their use of data and analytical techniques to support critical decision making.  The NHS is now leading process mining in healthcare with ICSs and Trusts innovating and building capabilities to revolutionise patient flow analytics.
