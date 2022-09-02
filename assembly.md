@@ -1,75 +1,38 @@
 --- 
 layout: default
-title: Data Science Assembly
+title: Validating and identifying patients for Mutual Aid with process mining
 ---
 
-## Data Science Assembly
+NHS England National Director of Elective Recovery, Sir James Mackey and National Director of Emergency and Elective Care, Pauline Philip DBE have written to Trusts on 16 August 2022 to increase support for elective recovery on non-admitted pathways.  Trusts are expected to have validation processes that enables the identification of patients, based on a set of eligibility criteria, to access outpatient consultation from alternative providers.
+Traditionally, Trusts will conduct ad-hoc analysis of their patient tracking lists (PTL) with the support of their business informatics team based on any given eligibility criteria.
 
-### What is it?
+#### When all goes well...
+Both the service teams and business informatics teams are able to prioritise their availability to interrogate the PTL, without the need to gather additional information or revise the data structure, the analysis could be completed in hours.
+In reality...
+Both service teams and business informatics teams are extremely busy and the PTL needs to be manipulated to conduct the relevant analysis.  This could take days or weeks.
 
-A group that represents those working in novel data science (both R&D and operational) in NHSE/I* (inc NHSTD* and NHSD*). For example, those that are involved in blue-sky research and trialling novel approaches to data science and analytics, rather than performing operational analytics with an immediate business need. We are not proposing to alter existing day-to-day working processes, rather be a group that can represent the requirements and interests of its data scientists. Our role would include (but not be limited to) things like:
--	A forum to collect requirements and views
--	Educate others, advocate for data science
+#### Top 5 insights from process mining in the NHS
+•	Trusts can now adopt process mining analytics to interrogate their PTL or Weekly National Waiting List datasets to identify patients who meet current and any future eligibility criteria in seconds.
+•	Trusts can also rapidly uncover bottlenecks preventing patients from progressing through their elective journeys
+•	Improve safety and quality of care by comparing all patient journeys to best practice pathways.
+•	Never lose a patient again with full transparency and visibility of every patient journey.
+•	Remove unwarranted variations in patient journeys and identify process improvement opportunities continuously.
 
-#### Why do we need it?
-1.	Currently R&D analytics and data science occurs in pockets throughout NHSE/I (for example, the NHSTD AI skunkworks, the innovative analytics team with the NHSTD Analytics Unit and the data science team in NHSE/I).  This is in contrast to the more centralised processes for operational analytics that occur within, for example, the CDAO directorate in NHSE/I.
-2.	Currently, the platforms are not set-up to allow easy NHSE/I-NHSTD collaboration (primarily flow of data and codes but also tooling, etc.). We need a better understanding of if/how folks currently collaborate and a roadmap to enable easy (but secure) collaboration.
+#### Illustration using National Waiting List datasets
 
-However, representation from a strong and recognised Data Science function is important, to ensure novel approaches and techniques can feed into operational analytics, AI and beyond. In addition to experimenting/filtering R&D projects and recommending successful ones to operational analytics, we can provide important guidance/reference to the operational team in terms of the latest tech (e.g. algorithms/approaches, tools, tech stack, etc.)
+<img ="">
 
-#### Pharmaceutical Industry - an example, for illustrative purposes:
-The pharmaceutical industry, like many industries, relies on its R&D laboratories to innovate, experiment, try new things and make new discoveries.  Many (most!) of these experiments do not work. However, hits can then be passed into production, using industrialised processes in factories and large manufacturing facilities.  Here, in these factories, consistency, control and repeatable processes are key.  However, the needs of an R&D lab are different; here flexibility and the ability to try new things (and quickly move on to the next thing) are key.  The R&D lab needs different equipment that you wouldn't find in the factory.  So, if you only had the factory, or you tried to do all your R&D in the factory, you are unlikely to get very far.  The same is true with R&D analytics and data science.
+Illustration A shows 4 simple filters in a process mining tool that can be applied within seconds by Services teams or Business Informatics teams to identify 2% of patients who might meet the eligibility criteria.
 
-Currently, we may get asked individually, or not at all, to contribute to the development of:
-Data Science projects
--	Analytics tools, software and platforms 
--	Workforce, for example:
-    -	Training and development for existing colleagues
-    -	Workforce planning, e.g. attraction and retention
+<img = "">
 
-A data science assembly would allow us to collaboratively contribute to these developments with a stronger and more consistent voice, to ensure the requirements of data science and R&D are an appropriate part of future plans. We can also share the load between us.
+Trusts can also interrogate any additional referral and patient attributes (Illustration B) to support decision making to offer the most appropriate outpatient consultations.
 
-### Who will be in it?
+#### How to get started
+During the Covid pandemic, the NHS has led the way in their use of data and analytical techniques to support critical decision making.  The NHS is now leading process mining in healthcare with ICSs and Trusts innovating and building capabilities to revolutionise patient flow analytics.
 
-Members will be from teams contracted to work for NHSE/I, with enthusiasm and experience in Data Science and innovative analytics. This includes:
--	**Giuseppe Sollazzo** - AI Skunkworks, NHSTD, NHSE/I
--	**Jennifer Hall** - AI Imaging, NHSTD, NHSE/I
--	**Matthew Cooper** - AI Skunkworks, NHSTD, NHSE/I
--	**Amadeus Stevenson** - AI Skunkworks, NHSTD, NHSE/I
--	**Ed Kendall** - Data Science Hub, CDAO, NHSE/I
--	**Achut Manandhar** - Data Science Hub, CDAO, NHSE/I
--	**Svetlana Batrakova** - Data Science Hub,CDAO, NHSE/I
--	**Chris Mainey** - Patient Safety, NHSE/I
--	**Sarah Culkin** - Analytics Unit, NHSTD, NHSE/I
--	**Jonny Pearson** - Analytics Unit, NHSTD, NHSE/I
--	**Dan Schofield** - Analytics Unit, NHSTD, NHSE/I
--	**Paul Carroll** - Analytics Unit, NHSTD, NHSE/I
--	**Rupert Chaplain** - Data Science Team, NHSD
--	**Jonathan Hope**	- Data Science Team, NHSD
--	**Mohammed Absar** - Direct Commissioning & Medical Directorate - London Region, NHSE/I
+In 2022, AnalystX set up the first process mining community in the NHS to develop the full range of capabilities to enable any NHS organisation trying to accelerate and improve patient journeys using process mining tools and techniques.
 
-### What will it do?
-Collectively represent the R&D analytics and data science community in NHSE/I (including NHSTD & NHSD), including:
--	Develop tech stack needs; open source, security, flexibility for R&R, separate to, but interoperable with operational platform (e.g. Foundry)
--	IG challenges going from R&D to device
--	Role in education others such as IG on what AI is going
--	Be a centre of excellence 
--	Working together with the Data Science Hub to develop capability across NHSE/I
--	Share our work being undertaken in the R&D space
+#### Getting involved 
+If you are already using process mining at your organisation, we would love to hear about your experience and your work, if you would like to learn more about process mining please join our community of practice (AnalystX Process Mining), to receive a live demo or have further questions, please get in touch with a member of the Logan Tod & Co team. 
 
-### How will it do this?
--	Communication of our existence and role to key stakeholders
--	Build collective links to Data Engineering/ Data Services
--	Our representatives can share the attendance of key stakeholder meetings
--	Group meets regularly (quarterly?) to feedback and decide on our collective actions/positions
--	Dissemination of our work e.g. through publication, store of case studies, annual report
-
-### What is it not?
-- A formal organisation with secretariat and admin function
-- A team from which projects and data science outputs are commissioned (this would still happen in separate teams)
-
-*Acronym|Expansion
----|---
-NHSE/I|NHS England & Improvement
-NHSTD|NHS Transformation Directorate, formerly NHSX
-NHSD|NHS Digital
