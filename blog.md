@@ -20,11 +20,11 @@ Both service teams and business informatics teams are extremely busy and the PTL
 
 #### Illustration using National Waiting List datasets
 
-<img ="">
+<img ="https://github.com/nhs-analystx/process-mining/blob/main/assets/img/illustration%20A.PNG">
 
 Illustration A shows 4 simple filters in a process mining tool that can be applied within seconds by Services teams or Business Informatics teams to identify 2% of patients who might meet the eligibility criteria.
 
-<img = "">
+<img = "https://github.com/nhs-analystx/process-mining/blob/main/assets/img/illustration%20B.PNG">
 
 Trusts can also interrogate any additional referral and patient attributes (Illustration B) to support decision making to offer the most appropriate outpatient consultations.
 
