@@ -21,14 +21,14 @@ Both service teams and business informatics teams are extremely busy and the PTL
 #### Illustration using National Waiting List datasets
 
 <figure class="nhsuk-image">
-  <img class="nhsuk-image__img" src="https://github.com/nhs-analystx/process-mining/blob/main/assets/img/A.PNG" alt="Illuation A">
+  <img class="nhsuk-image__img" src="/assets/img/A.PNG" alt="Illuation A">
   <figcaption class="nhsuk-image__caption">
    "Illustration A shows 4 simple filters in a process mining tool that can be applied within seconds by Services teams or Business Informatics teams to identify 2% of patients who might meet the eligibility criteria."
   </figcaption>
 </figure>
 
 <figure class="nhsuk-image">
-  <img class="nhsuk-image__img" src="https://github.com/nhs-analystx/process-mining/blob/main/assets/img/B.PNG" alt="Illuation B">
+  <img class="nhsuk-image__img" src="/assets/img/B.PNG" alt="Illuation B">
   <figcaption class="nhsuk-image__caption">
    "Trusts can also interrogate any additional referral and patient attributes (Illustration B) to support decision making to offer the most appropriate outpatient consultations."
   </figcaption>
