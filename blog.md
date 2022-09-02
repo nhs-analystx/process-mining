@@ -3,6 +3,8 @@ layout: default
 title: Validating and identifying patients for Mutual Aid with process mining
 ---
 
+### Validating and identifying patients for Mutual Aid with process mining
+
 NHS England National Director of Elective Recovery, Sir James Mackey and National Director of Emergency and Elective Care, Pauline Philip DBE have written to Trusts on 16 August 2022 to increase support for elective recovery on non-admitted pathways.  Trusts are expected to have validation processes that enables the identification of patients, based on a set of eligibility criteria, to access outpatient consultation from alternative providers.
 Traditionally, Trusts will conduct ad-hoc analysis of their patient tracking lists (PTL) with the support of their business informatics team based on any given eligibility criteria.
 
