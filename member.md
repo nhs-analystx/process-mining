@@ -18,7 +18,7 @@ title: Centre of Excellence
 </ul>
 
 <div class="nhsuk-do-dont-list">
-  <h3 class="nhsuk-do-dont-list__label">Principles and aims of the <a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Process Mining Centre of Excellence</a></h3>
+  <h3 class="nhsuk-do-dont-list__label">Principles and aims of the AnalystX Process Mining Centre of Excellence</h3>
   <ul class="nhsuk-list nhsuk-list--tick">
       <li>
           <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
