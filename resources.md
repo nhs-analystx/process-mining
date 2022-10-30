@@ -80,7 +80,7 @@ A number of blogs have been created and available to read on the [AnalystX works
             <img class="nhsuk-card__img" src="assets/img/links/FutureNHS.jpg" alt="AnalystX">
             <div class="nhsuk-card__content">
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://future.nhs.uk/DataAnalytics">AnalystX</a>
+                    <a class="nhsuk-card__link" href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Process Mining</a>
                 </h2>
                 <p>Subscribe to the AnalystX community site.</p>
             </div>
