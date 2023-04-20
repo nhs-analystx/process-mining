@@ -11,7 +11,7 @@ title: Challenge
 
 <h3>SERIES 1: THEATRE PATIENT FLOW </h3>
 
-
+<h2>Every process recorded from Patient Arrival to Discharge to ward </h2>
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
@@ -28,6 +28,8 @@ title: Challenge
         </div>
     </li>
 </ul>
+
+<h2>
 
 <h4>What to expect</h4>
 <p>Our expert team will provide you with theatre workflow data from a theatre command centre and show you how to use process mining tools to interrogate the data to identify data errors, opportunities to optimise resource allocation and reduce unwarranted variations.
