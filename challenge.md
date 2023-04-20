@@ -11,7 +11,7 @@ title: Challenge
 
 <h3>SERIES 1: THEATRE PATIENT FLOW </h3>
 
-<h2>Every process recorded from Patient Arrival to Discharge to ward </h2>
+<h4>Every process recorded from Patient Arrival to Discharge to ward </h4>
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
@@ -29,7 +29,7 @@ title: Challenge
     </li>
 </ul>
 
-<h2>Accurate updates for Patient and Patient Carer/Family</h2>
+<h4>Accurate updates for Patient and Patient Carer/Family</h4>
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-full nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
@@ -40,7 +40,7 @@ title: Challenge
     </li>
 </ul>
 
-<h2>Process Mining data model</h2>
+<h4>Process Mining data model</h4>
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
