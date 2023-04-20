@@ -1,6 +1,8 @@
 --- 
-layout: challenge
+layout: default
+title: Challenge
 ---
+
 
 
 <h2>AnalystX Patient Flow Challenge Series</h2>
