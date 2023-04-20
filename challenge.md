@@ -15,14 +15,14 @@ title: Challenge
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
-            <img class="nhsuk-card__img" src="assets/img/pmpc1.png" alt="AnalystX Process Mining">
+            <img class="nhsuk-card__img" src="assets/img/pmpc1.PNG" alt="AnalystX Process Mining">
             <div class="nhsuk-card__content">
             </div>
         </div>
     </li>
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
-            <img class="nhsuk-card__img" src="assets/img/pmpc2" alt="AnalystX Process Mining">
+            <img class="nhsuk-card__img" src="assets/img/pmpc2.PNG" alt="AnalystX Process Mining">
             <div class="nhsuk-card__content">
             </div>
         </div>
