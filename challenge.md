@@ -29,7 +29,36 @@ title: Challenge
     </li>
 </ul>
 
-<h2>
+<h2>Accurate updates for Patient and Patient Carer/Family</h2>
+<ul class="nhsuk-grid-row nhsuk-card-group">
+    <li class="nhsuk-grid-column-one-full nhsuk-card-group__item">
+        <div class="nhsuk-card nhsuk-card--clickable">
+            <img class="nhsuk-card__img" src="assets/img/pmpc3.PNG" alt="AnalystX Process Mining">
+            <div class="nhsuk-card__content">
+            </div>
+        </div>
+    </li>
+</ul>
+
+<h2>Process Mining data model</h2>
+<ul class="nhsuk-grid-row nhsuk-card-group">
+    <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
+        <div class="nhsuk-card nhsuk-card--clickable">
+            <img class="nhsuk-card__img" src="assets/img/pmpc4.PNG" alt="Flat file">
+            <div class="nhsuk-card__content">
+            </div>
+        </div>
+    </li>
+    <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
+        <div class="nhsuk-card nhsuk-card--clickable">
+            <img class="nhsuk-card__img" src="assets/img/pmpc5.PNG" alt="Process Mining Data Model">
+            <div class="nhsuk-card__content">
+            </div>
+        </div>
+    </li>
+</ul>
+
+
 
 <h4>What to expect</h4>
 <p>Our expert team will provide you with theatre workflow data from a theatre command centre and show you how to use process mining tools to interrogate the data to identify data errors, opportunities to optimise resource allocation and reduce unwarranted variations.
