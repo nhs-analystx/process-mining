@@ -9,7 +9,23 @@ layout: challenge
 
 <h3>SERIES 1: THEATRE PATIENT FLOW </h3>
 
-[Insert the 3 x diagrams on right - theatre workflow, Data model and Process Mining]
+
+<ul class="nhsuk-grid-row nhsuk-card-group">
+    <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
+        <div class="nhsuk-card nhsuk-card--clickable">
+            <img class="nhsuk-card__img" src="assets/img/pmpc1.png" alt="AnalystX Process Mining">
+            <div class="nhsuk-card__content">
+            </div>
+        </div>
+    </li>
+    <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
+        <div class="nhsuk-card nhsuk-card--clickable">
+            <img class="nhsuk-card__img" src="assets/img/pmpc2" alt="AnalystX Process Mining">
+            <div class="nhsuk-card__content">
+            </div>
+        </div>
+    </li>
+</ul>
 
 <h4>What to expect</h4>
 <p>Our expert team will provide you with theatre workflow data from a theatre command centre and show you how to use process mining tools to interrogate the data to identify data errors, opportunities to optimise resource allocation and reduce unwarranted variations.
