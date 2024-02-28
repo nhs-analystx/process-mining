@@ -25,7 +25,7 @@ This blog post highlights the potential of patient flow analytics, using process
 Patient flow analytics offers valuable insights into bottlenecks and inefficiencies within the referral process. By addressing the root causes identified, the NHS can move away from activity-focused metrics towards impact-maximizing behaviors, ultimately facilitating sustainable elective recovery.
 
 ### For the full article ### 
-
+<a href="https://github.com/nhs-analystx/process-mining/blob/main/assets/ElectiveRecovery-PatientFlowAnalyticsReveal_v2.1.pdf">Elective Recovery Patient Flow Analytics>/a>
 
 #### Getting involved #### 
 If you are already using process mining at your organisation, we would love to hear about your experience and your work, if you would like to learn more about process mining please join our community of practice (AnalystX Process Mining), to receive a live demo or have further questions, please get in touch with a member of the Logan Tod & Co team. 
