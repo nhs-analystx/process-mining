@@ -1,6 +1,6 @@
 --- 
 layout: default
-title: Validating and identifying patients for Mutual Aid with process mining
+title: Elective Recovery with Patient Flow Analytics
 ---
 
 This blog post highlights the potential of patient flow analytics, using process mining, to improve elective recovery efforts in the National Health Service (NHS).
